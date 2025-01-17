@@ -2,6 +2,8 @@
 
 This is a study-project of product cart. I has been developed base on [webcademy](https://webcademy.ru/) JS course. 
 
+<hr>
+
 It has all base function such as:
 - add product;
 - remove product;
@@ -20,4 +22,4 @@ Technology:
 
 <hr>
 
-![readme-cover](https://github.com/user-attachments/assets/dfd99a31-5d14-4887-835e-398d4c3dbd58)
+![readme-cover](https://github.com/user-attachments/assets/a4680e68-e286-494b-8ea0-4aa87ea70808)
